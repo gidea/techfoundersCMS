@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import twitter from "../img/twitter.svg";
+import twitter from "../img/social/twitter.svg";
 import logo from "../img/logo.svg";
 
 const Navbar = class extends React.Component {
