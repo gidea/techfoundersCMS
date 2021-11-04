@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import FullWidthImage from "../components/FullWidthImage";
 
 // eslint-disable-next-line
 export const MemberPageTemplate = ({ title, image, heading, subheading, content, contentComponent }) => {
